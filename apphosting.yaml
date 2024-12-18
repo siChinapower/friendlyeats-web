@@ -1,14 +1,14 @@
 env:
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: TODO
+    value: AIzaSyCiSG2rnOLZytpwLpYIr6DLpQAwsEhUaPk
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
-    value: TODO
+    value: chinapower-a4e0c.firebaseapp.com
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: TODO
+    value: chinapower-a4e0c
   - variable: NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
-    value: TODO
+    value: chinapower-a4e0c.appspot.com
   - variable: NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
-    value: TODO
+    value: 1086190218517
   - variable: NEXT_PUBLIC_FIREBASE_APP_ID
-    value: TODO
+    value: 1:1086190218517:web:389c3f207595106e5c8d1c
